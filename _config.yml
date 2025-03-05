@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: Everest Legal Documents
+description: Legal documents for the Everest mobile application
+show_downloads: false
+google_analytics:
+plugins:
+  - jekyll-seo-tag 
