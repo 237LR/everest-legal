@@ -11,7 +11,7 @@ Welcome to the official legal documentation page for Everest, the personal devel
 
 - [Privacy Policy](privacy-policy.html) - How we collect, use, and protect your data
 - [Terms of Service](terms-of-service.html) - Rules and guidelines for using our service
-- [End User License Agreement]([eula.html](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)) - Terms of software usage
+- [End User License Agreement]((https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)) - Terms of software usage
 - [Cookie Policy](cookie-policy.html) - Information about cookies and tracking technologies
 
 ## Contact Information
